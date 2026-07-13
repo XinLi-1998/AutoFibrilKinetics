@@ -1,4 +1,4 @@
-# AutoFibrilKinetics
+﻿# AutoFibrilKinetics
 
 This repository accompanies our study of glucagon glycoform mixtures and provides the analysis scripts used to extract two kinetic parameters from paired `Trp` and `ThT` fluorescence data:
 

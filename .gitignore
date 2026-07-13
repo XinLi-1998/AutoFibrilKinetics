@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+# Analysis outputs
+lag_time_results_3.0-*.xlsx
+lag_time_results_3.0-*.csv
+elongation_rate_results_3.0-*.xlsx
+elongation_rate_results_3.0-*.csv
+
+# Temporary Excel files
+~$*.xlsx
